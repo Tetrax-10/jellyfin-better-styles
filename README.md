@@ -7,7 +7,7 @@ Jellyfin better styles with stock experience. Works both on desktop and mobile.
 Add this line to your custom css (Settings => Display => Custom CSS code)
 
 ```css
-@import url("");
+@import url("https://tetrax-10.github.io/jellyfin-better-styles/out/theme.css");
 ```
 
 ## Screenshot
