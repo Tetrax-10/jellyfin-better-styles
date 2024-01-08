@@ -1,0 +1,34 @@
+// external links
+.itemExternalLinks > a {
+    color: #00a4dc !important;
+}
+
+.layout-desktop {
+    // big backdrop
+    .itemBackdrop {
+        height: 100vh;
+    }
+
+    // poster position
+    .detailImageContainer .card {
+        top: -71vh;
+    }
+
+    // logo position
+    .detailLogo {
+        right: 5vw;
+        top: 15vh;
+    }
+
+    // ribbon gradient merge
+    .detailRibbon {
+        background: transparent;
+    }
+    .itemBackdrop {
+        mask: linear-gradient(to bottom, black 60%, transparent);
+    }
+
+    .listItem:hover {
+        background: transparent;
+    }
+}

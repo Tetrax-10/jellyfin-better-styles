@@ -1,0 +1,7 @@
+// translucent bg
+// home, library title nav
+.skinHeader-withBackground,
+// movies, tv shows title nav
+.skinHeader.semiTransparent {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}

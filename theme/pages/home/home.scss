@@ -1,0 +1,9 @@
+// hide tabs in home, movies, tv shows
+.libraryDocument .emby-tabs {
+    display: none !important;
+}
+
+// disable home page fade animation
+.backdropImageFadeIn {
+    animation: 0s !important;
+}

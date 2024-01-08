@@ -1,0 +1,20 @@
+.layout-desktop {
+    .itemsContainer {
+        .card {
+            // scale card on hover
+            .cardBox-bottompadded {
+                margin-bottom: 1em !important;
+            }
+            .cardBox {
+                margin: 1em;
+                transition: transform 0.2s;
+            }
+            &:hover .cardBox {
+                transform: scale(1.1);
+            }
+            .cardOverlayContainer {
+                background: unset;
+            }
+        }
+    }
+}
