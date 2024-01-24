@@ -1,0 +1,11 @@
+@use "components/components";
+@use "pages/pages";
+@use "personal/personal";
+
+// round icon pack
+@import url("https://prayag17.github.io/Jellyfin-Icons/round.css");
+
+/* hide scrollbar */
+::-webkit-scrollbar {
+    display: none;
+}

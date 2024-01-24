@@ -1,0 +1,4 @@
+// reduce brightness to 0.6
+.verticalSection .cardContent:not(.defaultCardBackground) {
+    filter: brightness(0.7);
+}
