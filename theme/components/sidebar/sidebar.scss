@@ -2,12 +2,3 @@
 .sidebarHeader {
     color: #00a4dc;
 }
-
-// hide useless menus in nav bar
-.libraryMenuOptions,
-.btnSelectServer,
-.navMenuOption[href="#!/home.html"],
-.navMenuOption[data-itemid="editor"],
-.navMenuOption[data-itemid="logout"] {
-    display: none !important;
-}

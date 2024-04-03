@@ -2,8 +2,8 @@
     "name": "jellyfin-better-styles",
     "description": "Jellyfin better styles with stock experience",
     "scripts": {
-        "build": "sass theme/main.scss out/theme.css --no-source-map --no-error-css --style=compressed",
-        "build-personal": "sass theme/main-personal.scss out/theme-personal.css --no-source-map --no-error-css --style=compressed"
+        "build": "sass theme/main.scss dist/theme.css --no-source-map --no-error-css --style=compressed",
+        "build-personal": "sass theme/main-personal.scss dist/theme-personal.css --no-source-map --no-error-css --style=compressed"
     },
     "author": "Tetrax-10",
     "license": "MIT",

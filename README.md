@@ -1,15 +1,17 @@
 # Jellyfin Better Styles
 
-Jellyfin better styles with stock experience. Works both on desktop and mobile.
+This theme preserves the original aesthetics while upgrading layout and animations for a more polished look and feel.
 
 ## Installation
 
-Add this line to your custom css (Settings => Display => Custom CSS code)
+Add this line to your custom css (Dashboard => General => Custom CSS code)
 
 ```css
-@import url("https://tetrax-10.github.io/jellyfin-better-styles/out/theme.css");
+@import url("https://tetrax-10.github.io/jellyfin-better-styles/theme.css");
 ```
 
 ## Screenshot
 
-![movie tv page screenshot](./assets/movie-tv-page.png)
+![movie tv page screenshot](https://raw.githubusercontent.com/Tetrax-10/jellyfin-better-styles/main/assets/movie-tv-page.png)
+
+![cards screenshot](https://raw.githubusercontent.com/Tetrax-10/jellyfin-better-styles/main/assets/cards.png)
