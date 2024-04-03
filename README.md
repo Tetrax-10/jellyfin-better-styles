@@ -14,4 +14,4 @@ Add this line to your custom css (Dashboard => General => Custom CSS code)
 
 ![movie tv page screenshot](https://raw.githubusercontent.com/Tetrax-10/jellyfin-better-styles/main/assets/movie-tv-page.png)
 
-![cards screenshot](https://raw.githubusercontent.com/Tetrax-10/jellyfin-better-styles/main/assets/cards.png)
+![cards screenshot](https://raw.githubusercontent.com/Tetrax-10/jellyfin-better-styles/main/assets/cards.gif)

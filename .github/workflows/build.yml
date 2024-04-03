@@ -12,7 +12,7 @@ on:
 
 jobs:
     build_and_publish:
-        name: Setup Linux environment
+        name: Build and Publish
         runs-on: ubuntu-latest
 
         steps:
