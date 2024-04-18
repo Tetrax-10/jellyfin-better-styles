@@ -1,0 +1,9 @@
+// hide card hover play button
+.cardOverlayButton-hover[data-action="resume"] {
+    display: none;
+}
+
+// hide card hover bottom right corner buttons
+.cardOverlayButton-br > .cardOverlayButton-hover:not(:last-child) {
+    display: none;
+}
