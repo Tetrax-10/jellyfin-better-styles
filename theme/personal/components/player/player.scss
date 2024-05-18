@@ -1,0 +1,25 @@
+// hide ratings in bottom player
+.osdRatingsText > .starRatingContainer {
+    display: none;
+}
+
+// hide icons in right top/bottom player
+.paper-icon-button-light {
+    // sync play
+    &.headerSyncButton,
+    // cast
+    &.headerCastButton,
+    // heart
+    &.btnUserRating,
+    // pip
+    &.btnPip {
+        display: none;
+    }
+}
+
+// show time ends at on mobile
+@media (max-width: 75em) {
+    .videoOsdBottom .endsAtText {
+        display: unset !important;
+    }
+}
