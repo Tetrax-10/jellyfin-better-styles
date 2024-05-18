@@ -18,3 +18,8 @@
         }
     }
 }
+
+// disable selected card border
+.itemSelectionPanel {
+    border: unset;
+}
