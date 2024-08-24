@@ -1,4 +1,5 @@
 // disable home page fade animation
 .backdropImageFadeIn {
-    animation: 0s !important;
+    -webkit-animation: backdrop-fadein 0.001s ease-in normal both;
+    animation: backdrop-fadein 0.001s ease-in normal both;
 }
